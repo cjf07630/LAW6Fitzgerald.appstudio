@@ -6,7 +6,6 @@ function multiplyTwo(n1,n2) {
   }
 var answer = 0
 
-
 btnAdd.onclick=function(){
   lblAnswer.value = addTwo(inptNum1.value, inptNum2.value)
 }
